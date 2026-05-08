@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="990" height="300" viewBox="0 0 990 300">
+  <rect x="0" y="0" width="990" height="300" fill="#f8fafc" />
+  <text x="495" y="24" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="18" font-weight="700" fill="#111827">B 座 1 楼</text>
+  <g id="B118" data-room="B118" transform="translate(220 70)">
+    <rect x="0" y="0" width="105" height="40" rx="3" ry="3" fill="#ffffff" stroke="#222222" stroke-width="1.5" />
+    <text x="52.5" y="25" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="13" fill="#111111">B118</text>
+  </g>
+  <g id="B117" data-room="B117" transform="translate(330 70)">
+    <rect x="0" y="0" width="105" height="40" rx="3" ry="3" fill="#ffffff" stroke="#222222" stroke-width="1.5" />
+    <text x="52.5" y="25" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="13" fill="#111111">B117</text>
+  </g>
+  <g id="B101" data-room="B101" transform="translate(180 205)">
+    <rect x="0" y="0" width="65" height="40" rx="3" ry="3" fill="#ffffff" stroke="#222222" stroke-width="1.5" />
+    <text x="32.5" y="25" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="13" fill="#111111">B101</text>
+  </g>
+  <g id="B102" data-room="B102" transform="translate(270 205)">
+    <rect x="0" y="0" width="65" height="40" rx="3" ry="3" fill="#ffffff" stroke="#222222" stroke-width="1.5" />
+    <text x="32.5" y="25" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="13" fill="#111111">B102</text>
+  </g>
+  <g id="B103" data-room="B103" transform="translate(350 205)">
+    <rect x="0" y="0" width="65" height="40" rx="3" ry="3" fill="#ffffff" stroke="#222222" stroke-width="1.5" />
+    <text x="32.5" y="25" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="13" fill="#111111">B103</text>
+  </g>
+  <g id="B114" data-room="B114" transform="translate(510 70)">
+    <rect x="0" y="0" width="80" height="40" rx="3" ry="3" fill="#ffffff" stroke="#222222" stroke-width="1.5" />
+    <text x="40" y="25" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="13" fill="#111111">B114</text>
+  </g>
+  <g id="B113" data-room="B113" transform="translate(595 70)">
+    <rect x="0" y="0" width="80" height="40" rx="3" ry="3" fill="#ffffff" stroke="#222222" stroke-width="1.5" />
+    <text x="40" y="25" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="13" fill="#111111">B113</text>
+  </g>
+  <g id="B112" data-room="B112" transform="translate(670 70)">
+    <rect x="0" y="0" width="80" height="40" rx="3" ry="3" fill="#ffffff" stroke="#222222" stroke-width="1.5" />
+    <text x="40" y="25" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="13" fill="#111111">B112</text>
+  </g>
+  <g id="B111" data-room="B111" transform="translate(785 70)">
+    <rect x="0" y="0" width="80" height="40" rx="3" ry="3" fill="#ffffff" stroke="#222222" stroke-width="1.5" />
+    <text x="40" y="25" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="13" fill="#111111">B111</text>
+  </g>
+  <g id="B110" data-room="B110" transform="translate(870 70)">
+    <rect x="0" y="0" width="80" height="40" rx="3" ry="3" fill="#ffffff" stroke="#222222" stroke-width="1.5" />
+    <text x="40" y="25" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="13" fill="#111111">B110</text>
+  </g>
+  <g id="B105" data-room="B105" transform="translate(590 205)">
+    <rect x="0" y="0" width="60" height="40" rx="3" ry="3" fill="#ffffff" stroke="#222222" stroke-width="1.5" />
+    <text x="30" y="25" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="13" fill="#111111">B105</text>
+  </g>
+  <g id="B106" data-room="B106" transform="translate(650 205)">
+    <rect x="0" y="0" width="60" height="40" rx="3" ry="3" fill="#ffffff" stroke="#222222" stroke-width="1.5" />
+    <text x="30" y="25" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="13" fill="#111111">B106</text>
+  </g>
+  <g id="B107" data-room="B107" transform="translate(710 205)">
+    <rect x="0" y="0" width="60" height="40" rx="3" ry="3" fill="#ffffff" stroke="#222222" stroke-width="1.5" />
+    <text x="30" y="25" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="13" fill="#111111">B107</text>
+  </g>
+  <g id="B108" data-room="B108" transform="translate(810 205)">
+    <rect x="0" y="0" width="65" height="40" rx="3" ry="3" fill="#ffffff" stroke="#222222" stroke-width="1.5" />
+    <text x="32.5" y="25" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="13" fill="#111111">B108</text>
+  </g>
+</svg>

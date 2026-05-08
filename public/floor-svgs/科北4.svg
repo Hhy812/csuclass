@@ -1,0 +1,21 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+ <g id="Layer_1">
+  <title>Layer 1</title>
+  <rect id="科教北406" height="80" width="109.99999" y="208.59997" x="72.53332" stroke="#000" fill="none"/>
+  <rect id="科教北405" height="80" width="109.99999" y="208.59997" x="182.53332" stroke="#000" fill="none"/>
+  <rect id="科教北404" height="80" width="109.99999" y="208.59997" x="350.5333" stroke="#000" fill="none"/>
+  <rect id="科教北403" height="80" width="109.99999" y="208.59997" x="460.5333" stroke="#000" fill="none"/>
+  <rect id="科教北407" height="80" width="80" y="84.59998" x="119.53332" stroke="#000" fill="none"/>
+  <rect id="科教北408" height="80" width="80" y="84.59998" x="376.53332" stroke="#000" fill="none"/>
+  <rect id="科教北401" height="80" width="80" y="78.59998" x="623.53329" stroke="#000" fill="none"/>
+  <rect id="科教北402" height="80" width="80" y="158.59997" x="623.53332" stroke="#000" fill="none"/>
+  <text data-generated-label="1" data-room-id="科教北406" x="127.533315" y="248.59997" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">北406</text>
+  <text data-generated-label="1" data-room-id="科教北405" x="237.53331500000002" y="248.59997" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">北405</text>
+  <text data-generated-label="1" data-room-id="科教北404" x="405.533295" y="248.59997" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">北404</text>
+  <text data-generated-label="1" data-room-id="科教北403" x="515.533295" y="248.59997" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">北403</text>
+  <text data-generated-label="1" data-room-id="科教北407" x="159.53332" y="124.59998" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">北407</text>
+  <text data-generated-label="1" data-room-id="科教北408" x="416.53332" y="124.59998" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">北408</text>
+  <text data-generated-label="1" data-room-id="科教北401" x="663.53329" y="118.59998" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">北401</text>
+  <text data-generated-label="1" data-room-id="科教北402" x="663.53332" y="198.59997" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">北402</text>
+ </g>
+</svg>

@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="300" viewBox="0 0 980 300">
+  <rect x="0" y="0" width="980" height="300" fill="#f8fafc" />
+  <text x="490" y="24" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="18" font-weight="700" fill="#111827">A 座 3 楼</text>
+  <g id="A303" data-room="A303" transform="translate(50 80)">
+    <rect x="0" y="0" width="60" height="45" rx="3" ry="3" fill="#ffffff" stroke="#222222" stroke-width="1.5" />
+    <text x="30" y="27.5" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="13" fill="#111111">A303</text>
+  </g>
+  <g id="A302" data-room="A302" transform="translate(50 130)">
+    <rect x="0" y="0" width="60" height="45" rx="3" ry="3" fill="#ffffff" stroke="#222222" stroke-width="1.5" />
+    <text x="30" y="27.5" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="13" fill="#111111">A302</text>
+  </g>
+  <g id="A301" data-room="A301" transform="translate(30 180)">
+    <rect x="0" y="0" width="80" height="45" rx="3" ry="3" fill="#ffffff" stroke="#222222" stroke-width="1.5" />
+    <text x="40" y="27.5" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="13" fill="#111111">A301</text>
+  </g>
+  <g id="A304" data-room="A304" transform="translate(130 190)">
+    <rect x="0" y="0" width="90" height="50" rx="3" ry="3" fill="#ffffff" stroke="#222222" stroke-width="1.5" />
+    <text x="45" y="30" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="13" fill="#111111">A304</text>
+  </g>
+  <g id="A306" data-room="A306" transform="translate(230 190)">
+    <rect x="0" y="0" width="70" height="50" rx="3" ry="3" fill="#ffffff" stroke="#222222" stroke-width="1.5" />
+    <text x="35" y="30" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="13" fill="#111111">A306</text>
+  </g>
+  <g id="A307" data-room="A307" transform="translate(310 190)">
+    <rect x="0" y="0" width="70" height="50" rx="3" ry="3" fill="#ffffff" stroke="#222222" stroke-width="1.5" />
+    <text x="35" y="30" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="13" fill="#111111">A307</text>
+  </g>
+  <g id="A308" data-room="A308" transform="translate(520 190)">
+    <rect x="0" y="0" width="70" height="50" rx="3" ry="3" fill="#ffffff" stroke="#222222" stroke-width="1.5" />
+    <text x="35" y="30" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="13" fill="#111111">A308</text>
+  </g>
+  <g id="A324" data-room="A324" transform="translate(130 80)">
+    <rect x="0" y="0" width="70" height="50" rx="3" ry="3" fill="#ffffff" stroke="#222222" stroke-width="1.5" />
+    <text x="35" y="30" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="13" fill="#111111">A324</text>
+  </g>
+  <g id="A323" data-room="A323" transform="translate(200 80)">
+    <rect x="0" y="0" width="70" height="50" rx="3" ry="3" fill="#ffffff" stroke="#222222" stroke-width="1.5" />
+    <text x="35" y="30" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="13" fill="#111111">A323</text>
+  </g>
+  <g id="A322" data-room="A322" transform="translate(300 80)">
+    <rect x="0" y="0" width="70" height="50" rx="3" ry="3" fill="#ffffff" stroke="#222222" stroke-width="1.5" />
+    <text x="35" y="30" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="13" fill="#111111">A322</text>
+  </g>
+  <g id="A321" data-room="A321" transform="translate(370 80)">
+    <rect x="0" y="0" width="70" height="50" rx="3" ry="3" fill="#ffffff" stroke="#222222" stroke-width="1.5" />
+    <text x="35" y="30" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="13" fill="#111111">A321</text>
+  </g>
+  <g id="A320" data-room="A320" transform="translate(440 80)">
+    <rect x="0" y="0" width="70" height="50" rx="3" ry="3" fill="#ffffff" stroke="#222222" stroke-width="1.5" />
+    <text x="35" y="30" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="13" fill="#111111">A320</text>
+  </g>
+  <g id="A319" data-room="A319" transform="translate(510 80)">
+    <rect x="0" y="0" width="70" height="50" rx="3" ry="3" fill="#ffffff" stroke="#222222" stroke-width="1.5" />
+    <text x="35" y="30" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="13" fill="#111111">A319</text>
+  </g>
+  <g id="A318" data-room="A318" transform="translate(580 80)">
+    <rect x="0" y="0" width="70" height="50" rx="3" ry="3" fill="#ffffff" stroke="#222222" stroke-width="1.5" />
+    <text x="35" y="30" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="13" fill="#111111">A318</text>
+  </g>
+  <g id="A317" data-room="A317" transform="translate(650 80)">
+    <rect x="0" y="0" width="70" height="50" rx="3" ry="3" fill="#ffffff" stroke="#222222" stroke-width="1.5" />
+    <text x="35" y="30" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="13" fill="#111111">A317</text>
+  </g>
+  <g id="A315" data-room="A315" transform="translate(720 80)">
+    <rect x="0" y="0" width="70" height="50" rx="3" ry="3" fill="#ffffff" stroke="#222222" stroke-width="1.5" />
+    <text x="35" y="30" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="13" fill="#111111">A315</text>
+  </g>
+  <g id="A314" data-room="A314" transform="translate(790 80)">
+    <rect x="0" y="0" width="70" height="50" rx="3" ry="3" fill="#ffffff" stroke="#222222" stroke-width="1.5" />
+    <text x="35" y="30" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="13" fill="#111111">A314</text>
+  </g>
+  <g id="A313" data-room="A313" transform="translate(860 80)">
+    <rect x="0" y="0" width="70" height="50" rx="3" ry="3" fill="#ffffff" stroke="#222222" stroke-width="1.5" />
+    <text x="35" y="30" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="13" fill="#111111">A313</text>
+  </g>
+  <g id="A310" data-room="A310" transform="translate(720 200)">
+    <rect x="0" y="0" width="100" height="45" rx="3" ry="3" fill="#ffffff" stroke="#222222" stroke-width="1.5" />
+    <text x="50" y="27.5" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="13" fill="#111111">A310</text>
+  </g>
+  <g id="A312" data-room="A312" transform="translate(865 150)">
+    <rect x="0" y="0" width="75" height="45" rx="3" ry="3" fill="#ffffff" stroke="#222222" stroke-width="1.5" />
+    <text x="37.5" y="27.5" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="13" fill="#111111">A312</text>
+  </g>
+  <g id="A311" data-room="A311" transform="translate(865 205)">
+    <rect x="0" y="0" width="75" height="45" rx="3" ry="3" fill="#ffffff" stroke="#222222" stroke-width="1.5" />
+    <text x="37.5" y="27.5" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="13" fill="#111111">A311</text>
+  </g>
+</svg>

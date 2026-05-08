@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="995" height="260" viewBox="0 0 995 260">
+  <rect x="0" y="0" width="995" height="260" fill="#f8fafc" />
+  <text x="497.5" y="24" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="18" font-weight="700" fill="#111827">C 座 5 楼</text>
+  <g id="C501" data-room="C501" transform="translate(120 120)">
+    <rect x="0" y="0" width="80" height="55" rx="3" ry="3" fill="#ffffff" stroke="#222222" stroke-width="1.5" />
+    <text x="40" y="32.5" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="13" fill="#111111">C501</text>
+  </g>
+  <g id="C502" data-room="C502" transform="translate(205 120)">
+    <rect x="0" y="0" width="80" height="55" rx="3" ry="3" fill="#ffffff" stroke="#222222" stroke-width="1.5" />
+    <text x="40" y="32.5" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="13" fill="#111111">C502</text>
+  </g>
+  <g id="C503" data-room="C503" transform="translate(290 120)">
+    <rect x="0" y="0" width="80" height="55" rx="3" ry="3" fill="#ffffff" stroke="#222222" stroke-width="1.5" />
+    <text x="40" y="32.5" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="13" fill="#111111">C503</text>
+  </g>
+  <g id="C504" data-room="C504" transform="translate(375 120)">
+    <rect x="0" y="0" width="80" height="55" rx="3" ry="3" fill="#ffffff" stroke="#222222" stroke-width="1.5" />
+    <text x="40" y="32.5" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="13" fill="#111111">C504</text>
+  </g>
+  <g id="C507" data-room="C507" transform="translate(620 120)">
+    <rect x="0" y="0" width="80" height="55" rx="3" ry="3" fill="#ffffff" stroke="#222222" stroke-width="1.5" />
+    <text x="40" y="32.5" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="13" fill="#111111">C507</text>
+  </g>
+  <g id="C508" data-room="C508" transform="translate(705 120)">
+    <rect x="0" y="0" width="80" height="55" rx="3" ry="3" fill="#ffffff" stroke="#222222" stroke-width="1.5" />
+    <text x="40" y="32.5" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="13" fill="#111111">C508</text>
+  </g>
+  <g id="C510" data-room="C510" transform="translate(790 120)">
+    <rect x="0" y="0" width="80" height="55" rx="3" ry="3" fill="#ffffff" stroke="#222222" stroke-width="1.5" />
+    <text x="40" y="32.5" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="13" fill="#111111">C510</text>
+  </g>
+  <g id="C511" data-room="C511" transform="translate(875 120)">
+    <rect x="0" y="0" width="80" height="55" rx="3" ry="3" fill="#ffffff" stroke="#222222" stroke-width="1.5" />
+    <text x="40" y="32.5" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="13" fill="#111111">C511</text>
+  </g>
+</svg>

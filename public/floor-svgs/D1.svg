@@ -1,0 +1,58 @@
+<svg width="1800" height="700" xmlns="http://www.w3.org/2000/svg">
+ <g id="Layer_1">
+  <title>Layer 1</title>
+  <rect fill="#fff" stroke="#000" x="356.0333" y="264.59997" width="110" height="80" id="D130"/>
+  <path stroke="#000" id="D101" d="m167.55788,439.57951l56.04862,36.54031l-53.1253,78.30067l-64.08767,-47.85041l61.16435,-66.99057z" opacity="NaN" fill="#fff"/>
+  <path id="D103" d="m250.03332,491l72.46669,4l-10,100l-101,-21l38.53331,-83z" opacity="NaN" stroke="#000" fill="#fff"/>
+  <path stroke="#000" id="D104" d="m362.15155,499.87273l-12.65154,101.12728l108,0.10909l-4.03774,-105.10909l-91.31072,3.87273z" opacity="NaN" fill="#fff"/>
+  <rect stroke="#000" id="D106" height="101.99999" width="177" y="498" x="497.96664" fill="#fff"/>
+  <rect fill="#fff" stroke="#000" x="498.03329" y="364.59997" width="110" height="70" id="D129"/>
+  <rect stroke="#000" id="D125" height="120" width="130" y="128.00001" x="740.03332" fill="#fff"/>
+  <rect stroke="#000" id="D123" height="120" width="130" y="340.99999" x="740.03332" fill="#fff"/>
+  <rect stroke="#000" id="D107" height="102" width="130" y="498" x="740.50001" fill="#fff"/>
+  <rect stroke="#000" id="D108" height="102" width="102" y="498" x="983" fill="#fff"/>
+  <rect stroke="#000" id="D121" height="102" width="102" y="281.75" x="983" fill="#fff"/>
+  <rect stroke="#000" id="D122" height="102" width="102" y="96.75" x="983" fill="#fff"/>
+  <path id="D120" d="m1145.49993,280.41665l104.50011,-16.66664l55,102.5l-142.5,25l-17.00011,-110.83336z" opacity="NaN" stroke="#000" fill="#fff"/>
+  <path id="D117" d="m1296.74991,231.66665l63.25013,-64.16665l132.5,52.5l-57.5,100l-138.25013,-88.33336z" opacity="NaN" stroke="#000" fill="#fff"/>
+  <path id="D116" d="m1624.74991,88.33334l162.75014,0.41667l-5,132.5l-173.75,-41.25l15.99987,-91.66667z" opacity="NaN" stroke="#000" fill="#fff"/>
+  <path id="D110" d="m1183.66657,502.08332l0.08346,110.4167l157.5,-7.5l-48.75,-113.75l-108.83346,10.8333z" opacity="NaN" stroke="#000" fill="#fff"/>
+  <path id="D113" d="m1378.66655,469.58332l101.33348,-60.83331l116.25,100l-142.5,83.75l-75.08348,-122.9167z" opacity="NaN" stroke="#000" fill="#fff"/>
+  <path id="D114" d="m1545.4999,335.41665l63.25013,-64.16665l132.5,52.5l-57.5,100.00001l-138.25013,-88.33336z" opacity="NaN" stroke="#000" fill="#fff"/>
+  <line id="svg_49" y2="199" x2="676.3334" y1="199.00003" x1="10" stroke="#000" fill="none"/>
+  <path id="svg_53" d="m191.33337,616.50005" opacity="NaN" stroke="#000" fill="none"/>
+  <path id="svg_54" d="m696.3334,646.50005" opacity="NaN" stroke="#000" fill="none"/>
+  <path id="svg_55" d="m96.33336,446.50004" opacity="NaN" stroke="#000" fill="none"/>
+  <path id="svg_56" d="m13.83336,194.00003" opacity="NaN" stroke="#000" fill="none"/>
+  <path id="svg_58" d="m8.83336,196.50003" opacity="NaN" stroke="#000" fill="none"/>
+  <path id="svg_59" d="m6.33336,196.50003" opacity="NaN" stroke="#000" fill="none"/>
+  <path id="svg_61" d="m11.33336,191.50003" opacity="NaN" stroke="#000" fill="none"/>
+  <path stroke="#000" id="svg_62" d="m8.83338,199.00003c12.11883,457.50002 247.11884,472.50002 310.79033,478.50005" opacity="NaN" fill="none"/>
+  <path id="svg_63" d="m53.83336,409.00004" opacity="NaN" stroke="#000" fill="none"/>
+  <line id="svg_64" y2="6.50002" x2="676" y1="199.00003" x1="676.3334" stroke="#000" fill="none"/>
+  <line id="svg_65" y2="6.50002" x2="928.50002" y1="199.00003" x1="928.83342" stroke="#000" fill="none"/>
+  <path id="svg_71" d="m1201.33343,629.00005" opacity="NaN" stroke="#000" fill="none"/>
+  <path id="svg_83" d="m1131.60021,662.00006c864.00007,76.00001 720.00006,-600.00005 710.39999,-634.00006" opacity="NaN" stroke="#000" fill="none"/>
+  <rect fill="#fff" stroke="#000" x="498.03329" y="266.59996" width="110" height="70" id="D128"/>
+  <text data-generated-label="1" data-room-id="D101" x="165.00001500000002" y="497" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">D101</text>
+  <text data-generated-label="1" data-room-id="D103" x="267.00001" y="543" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">D103</text>
+  <text data-generated-label="1" data-room-id="D104" x="403.50001" y="548.554555" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">D104</text>
+  <text data-generated-label="1" data-room-id="D106" x="586.46664" y="548.999995" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">D106</text>
+  <text data-generated-label="1" data-room-id="D107" x="805.50001" y="549" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">D107</text>
+  <text data-generated-label="1" data-room-id="D108" x="1034" y="549" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">D108</text>
+  <text data-generated-label="1" data-room-id="D110" x="1262.4583000000002" y="551.8750200000001" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">D110</text>
+  <text data-generated-label="1" data-room-id="D113" x="1487.45829" y="500.62501" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">D113</text>
+  <text data-generated-label="1" data-room-id="D114" x="1643.374965" y="347.500005" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">D114</text>
+  <text data-generated-label="1" data-room-id="D116" x="1698.12505" y="154.791675" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">D116</text>
+  <text data-generated-label="1" data-room-id="D117" x="1394.624975" y="243.75" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">D117</text>
+  <text data-generated-label="1" data-room-id="D120" x="1225.249985" y="327.50001" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">D120</text>
+  <text data-generated-label="1" data-room-id="D121" x="1034" y="332.75" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">D121</text>
+  <text data-generated-label="1" data-room-id="D122" x="1034" y="147.75" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">D122</text>
+  <text data-generated-label="1" data-room-id="D123" x="805.03332" y="400.99999" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">D123</text>
+  <text data-generated-label="1" data-room-id="D125" x="805.03332" y="188.00001" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">D125</text>
+  <text data-generated-label="1" data-room-id="D128" x="553.0332900000001" y="301.59996" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">D128</text>
+  <text data-generated-label="1" data-room-id="D129" x="553.0332900000001" y="399.59997" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">D129</text>
+  <text data-generated-label="1" data-room-id="D130" x="411.0333" y="304.59997" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">D130</text>
+ </g>
+
+</svg>

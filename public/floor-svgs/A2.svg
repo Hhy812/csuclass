@@ -1,0 +1,49 @@
+<svg width="1800" height="400.00000000000006" xmlns="http://www.w3.org/2000/svg">
+ <g id="Layer_1">
+  <title>Layer 1</title>
+  <rect id="A202" height="50" width="70" y="207.99998" x="172.66664" stroke="#000" fill="#fff"/>
+  <rect id="A203" height="50" width="70" y="157.99999" x="172.66664" stroke="#000" fill="#fff"/>
+  <rect stroke="#000" id="A201" height="61.99999" width="93" y="257.99998" x="149.66664" fill="#fff"/>
+  <rect id="A224" height="50" width="70" y="94.57142" x="286.66663" stroke="#000" fill="#fff"/>
+  <rect id="A223" height="50" width="70" y="94.99999" x="356.66663" stroke="#000" fill="#fff"/>
+  <rect stroke="#000" id="A204" height="50" width="129" y="181.99998" x="306.66664" fill="#fff"/>
+  <rect stroke="#000" id="A206" height="50" width="108" y="181.99998" x="477.66662" fill="#fff"/>
+  <rect stroke="#000" id="A207" height="50" width="129" y="181.99998" x="585.66664" fill="#fff"/>
+  <rect stroke="#000" id="A222" height="50" width="74.85715" y="94.99999" x="586.66666" fill="#fff"/>
+  <rect stroke="#000" id="A218" height="50" width="100.57144" y="94.99999" x="937.66664" fill="#fff"/>
+  <rect stroke="#000" id="A208" height="50" width="122.00001" y="181.99998" x="898.66664" fill="#fff"/>
+  <rect stroke="#000" id="A217" height="50" width="113" y="94.99999" x="1074.66662" fill="#fff"/>
+  <rect stroke="#000" id="A209" height="50" width="113" y="244.99998" x="1110.66662" fill="#fff"/>
+  <rect stroke="#000" id="A210" height="50" width="140.00001" y="254.99998" x="1309.6666" fill="#fff"/>
+  <rect stroke="#000" id="A215" height="60" width="85" y="94.99999" x="1328.66661" fill="#fff"/>
+  <rect stroke="#000" id="A214" height="60" width="85" y="115.99999" x="1413.6666" fill="#fff"/>
+  <rect stroke="#000" id="A213" height="60" width="85" y="135.99999" x="1498.6666" fill="#fff"/>
+  <rect stroke="#000" id="A212" height="50" width="125.00001" y="210.99998" x="1526.66658" fill="#fff"/>
+  <rect stroke="#000" id="A211" height="50" width="125.00001" y="260.99997" x="1526.66658" fill="#fff"/>
+  <rect stroke="#000" id="A221" height="50" width="74.85715" y="94.99999" x="662.38093" fill="#fff"/>
+  <rect stroke="#000" id="A220" height="50" width="119.14286" y="94.99999" x="738.09519" fill="#fff"/>
+  <rect stroke="#000" id="A219" height="50" width="79.14287" y="94.99999" x="858.09518" fill="#fff"/>
+  <text data-generated-label="1" data-room-id="A202" x="207.66664" y="232.99998" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">A202</text>
+  <text data-generated-label="1" data-room-id="A203" x="207.66664" y="182.99999" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">A203</text>
+  <text data-generated-label="1" data-room-id="A201" x="196.16664" y="288.999975" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">A201</text>
+  <text data-generated-label="1" data-room-id="A224" x="321.66663" y="119.57142" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">A224</text>
+  <text data-generated-label="1" data-room-id="A223" x="391.66663" y="119.99999" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">A223</text>
+  <text data-generated-label="1" data-room-id="A204" x="371.16664" y="206.99998" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">A204</text>
+  <text data-generated-label="1" data-room-id="A206" x="531.66662" y="206.99998" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">A206</text>
+  <text data-generated-label="1" data-room-id="A207" x="650.16664" y="206.99998" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">A207</text>
+  <text data-generated-label="1" data-room-id="A222" x="624.095235" y="119.99999" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">A222</text>
+  <text data-generated-label="1" data-room-id="A218" x="987.95236" y="119.99999" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">A218</text>
+  <text data-generated-label="1" data-room-id="A208" x="959.666645" y="206.99998" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">A208</text>
+  <text data-generated-label="1" data-room-id="A217" x="1131.16662" y="119.99999" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">A217</text>
+  <text data-generated-label="1" data-room-id="A209" x="1167.16662" y="269.99998" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">A209</text>
+  <text data-generated-label="1" data-room-id="A210" x="1379.6666050000001" y="279.99998" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">A210</text>
+  <text data-generated-label="1" data-room-id="A215" x="1371.16661" y="124.99999" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">A215</text>
+  <text data-generated-label="1" data-room-id="A214" x="1456.1666" y="145.99999" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">A214</text>
+  <text data-generated-label="1" data-room-id="A213" x="1541.1666" y="165.99999" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">A213</text>
+  <text data-generated-label="1" data-room-id="A212" x="1589.1665850000002" y="235.99998" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">A212</text>
+  <text data-generated-label="1" data-room-id="A211" x="1589.1665850000002" y="285.99997" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">A211</text>
+  <text data-generated-label="1" data-room-id="A221" x="699.8095050000001" y="119.99999" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">A221</text>
+  <text data-generated-label="1" data-room-id="A220" x="797.66662" y="119.99999" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">A220</text>
+  <text data-generated-label="1" data-room-id="A219" x="897.666615" y="119.99999" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">A219</text>
+ </g>
+</svg>

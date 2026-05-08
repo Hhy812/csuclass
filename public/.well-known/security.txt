@@ -1,0 +1,3 @@
+Contact: mailto:breakvex@gmail.com
+Preferred-Languages: zh-CN, en
+Canonical: https://ilovecsu.top/.well-known/security.txt

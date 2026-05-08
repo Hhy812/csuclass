@@ -1,0 +1,21 @@
+<svg width="803" height="300" xmlns="http://www.w3.org/2000/svg">
+ <g id="Layer_1">
+  <title>Layer 1</title>
+  <rect id="C401" height="65" width="65" y="117.86667" x="31.53332" stroke="#000" fill="#fff"/>
+  <rect id="C402" height="65" width="80" y="117.86667" x="96.53331" stroke="#000" fill="#fff"/>
+  <rect id="C403" height="65" width="80" y="117.86667" x="176.5333" stroke="#000" fill="#fff"/>
+  <rect id="C404" height="65" width="80" y="117.86667" x="256.5333" stroke="#000" fill="#fff"/>
+  <rect id="C407" height="65" width="80" y="117.86667" x="687.53328" stroke="#000" fill="#fff"/>
+  <rect id="C408" height="65" width="80" y="117.86667" x="607.53328" stroke="#000" fill="#fff"/>
+  <rect id="C410" height="65" width="80" y="117.86667" x="499.53328" stroke="#000" fill="#fff"/>
+  <rect id="C411" height="65" width="80" y="117.86667" x="419.53328" stroke="#000" fill="#fff"/>
+  <text data-generated-label="1" data-room-id="C401" x="64.03332" y="150.36667" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">C401</text>
+  <text data-generated-label="1" data-room-id="C402" x="136.53331" y="150.36667" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">C402</text>
+  <text data-generated-label="1" data-room-id="C403" x="216.5333" y="150.36667" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">C403</text>
+  <text data-generated-label="1" data-room-id="C404" x="296.5333" y="150.36667" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">C404</text>
+  <text data-generated-label="1" data-room-id="C407" x="727.53328" y="150.36667" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">C407</text>
+  <text data-generated-label="1" data-room-id="C408" x="647.53328" y="150.36667" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">C408</text>
+  <text data-generated-label="1" data-room-id="C410" x="539.53328" y="150.36667" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">C410</text>
+  <text data-generated-label="1" data-room-id="C411" x="459.53328" y="150.36667" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">C411</text>
+ </g>
+</svg>

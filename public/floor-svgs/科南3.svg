@@ -1,0 +1,24 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+ <g id="Layer_1">
+  <title>Layer 1</title>
+  <rect fill="#fff" stroke="#000" x="138.53331" y="360.59997" width="115" height="80" id="科教南304"/>
+  <path id="科教南303" d="m253.53331,406.59998l160.99998,0l0,55l-160.99998,0l0,-55z" opacity="undefined" stroke="#000" fill="#fff"/>
+  <rect fill="#fff" stroke="#000" x="414.53331" y="360.59997" width="120" height="80" id="科教南302"/>
+  <rect fill="#fff" x="424.53331" y="243.59998" width="90" height="80" id="科教南307" stroke="#000"/>
+  <path fill="#fff" stroke="#000" opacity="undefined" d="m598.53333,243.59999l76.99999,0l0,164.99998l-76.99999,0l0,-164.99998z" id="科教南301"/>
+  <line fill="none" stroke="#000" x1="408.5333" y1="154.59998" x2="450.5333" y2="200.59998" id="svg_8"/>
+  <line fill="none" x1="450.5333" y1="200.59998" x2="450.5333" y2="243.59998" id="svg_10" stroke="#000"/>
+  <line fill="none" stroke="#000" x1="409.5333" y1="154.59998" x2="348" y2="154.59998" id="svg_11"/>
+  <path fill="none" opacity="undefined" d="m347.53331,154.59998l0,89.99999" id="svg_13" stroke="#000"/>
+  <line fill="none" x1="451.5333" y1="243.59998" x2="347.5333" y2="243.59998" id="svg_14" stroke="#000"/>
+  <rect id="科教南305" height="140" width="155" y="183.59998" x="98.53331" stroke="#000" fill="#fff"/>
+  <path id="科教南306" d="M347.5333 243.59998 L347.5333 154.59998 L409.5333 154.59998 L450.5333 200.59998 L450.5333 243.59998 Z" fill="#fff" stroke="#000" />
+  <text data-generated-label="1" data-room-id="科教南304" x="196.03331" y="400.59997" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">南304</text>
+  <text data-generated-label="1" data-room-id="科教南303" x="334.03329999999994" y="434.09998" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">南303</text>
+  <text data-generated-label="1" data-room-id="科教南302" x="474.53331" y="400.59997" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">南302</text>
+  <text data-generated-label="1" data-room-id="科教南307" x="469.53331" y="283.59997999999996" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">南307</text>
+  <text data-generated-label="1" data-room-id="科教南301" x="637.033325" y="326.09997999999996" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">南301</text>
+  <text data-generated-label="1" data-room-id="科教南305" x="176.03331" y="253.59998" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">南305</text>
+  <text data-generated-label="1" data-room-id="科教南306" x="399.0333" y="199.09998" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">南306</text>
+ </g>
+</svg>

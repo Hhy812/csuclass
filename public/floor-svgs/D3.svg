@@ -1,0 +1,26 @@
+<svg width="1800" height="700" xmlns="http://www.w3.org/2000/svg">
+ <g id="Layer_1">
+  <title>Layer 1</title>
+  <rect stroke="#000" id="D303" height="120" width="130" y="128.00001" x="740.03332" fill="#fff"/>
+  <rect stroke="#000" id="D305" height="102" width="102" y="96.75" x="983" fill="#fff"/>
+  <line id="svg_49" y2="199" x2="676.3334" y1="199.00003" x1="10" stroke="#000" fill="none"/>
+  <path id="svg_53" d="m191.33337,616.50005" opacity="NaN" stroke="#000" fill="none"/>
+  <path id="svg_54" d="m696.3334,646.50005" opacity="NaN" stroke="#000" fill="none"/>
+  <path id="svg_55" d="m96.33336,446.50004" opacity="NaN" stroke="#000" fill="none"/>
+  <path id="svg_56" d="m13.83336,194.00003" opacity="NaN" stroke="#000" fill="none"/>
+  <path id="svg_58" d="m8.83336,196.50003" opacity="NaN" stroke="#000" fill="none"/>
+  <path id="svg_59" d="m6.33336,196.50003" opacity="NaN" stroke="#000" fill="none"/>
+  <path id="svg_61" d="m11.33336,191.50003" opacity="NaN" stroke="#000" fill="none"/>
+  <path stroke="#000" id="svg_62" d="m8.83338,199.00003c12.11883,457.50002 247.11884,472.50002 310.79033,478.50005" opacity="NaN" fill="none"/>
+  <path id="svg_63" d="m53.83336,409.00004" opacity="NaN" stroke="#000" fill="none"/>
+  <line id="svg_64" y2="6.50002" x2="676" y1="199.00003" x1="676.3334" stroke="#000" fill="none"/>
+  <line id="svg_65" y2="6.50002" x2="928.50002" y1="199.00003" x1="928.83342" stroke="#000" fill="none"/>
+  <path id="svg_83" d="m1093.60021,680.00006c864.00007,76.00001 720.00006,-600.00005 710.39999,-634.00006" opacity="NaN" stroke="#000" fill="none"/>
+  <path id="svg_71" d="m1201.33343,629.00005" opacity="NaN" stroke="#000" fill="none"/>
+  <rect fill="#fff" stroke="#000" x="700.03331" y="24.59994" width="100" height="70" id="D301"/>
+  <text data-generated-label="1" data-room-id="D301" x="750.03331" y="59.599940000000004" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">D301</text>
+  <text data-generated-label="1" data-room-id="D303" x="805.03332" y="188.00001" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">D303</text>
+  <text data-generated-label="1" data-room-id="D305" x="1034" y="147.75" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">D305</text>
+ </g>
+
+</svg>

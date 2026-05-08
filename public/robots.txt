@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /classroom_data.json

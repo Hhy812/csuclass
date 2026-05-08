@@ -1,0 +1,11 @@
+node_modules/
+.env
+dist/
+venv/
+*.xls
+*.log
+__pycache__/
+.vscode/
+.idea/
+*.zip
+scripts/login.py

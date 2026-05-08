@@ -1,0 +1,39 @@
+<svg width="1300" height="400" xmlns="http://www.w3.org/2000/svg">
+ <g id="Layer_1">
+  <title>Layer 1</title>
+  <rect id="B219" height="50" width="80" y="117.36666" x="105.23332" stroke="#000" fill="#fff"/>
+  <rect id="B218" height="60" width="85" y="107.36666" x="207.23331" stroke="#000" fill="#fff"/>
+  <rect stroke="#000" id="B217" height="52" width="85" y="115.36667" x="314.2333" fill="#fff"/>
+  <rect stroke="#000" id="B202" height="50" width="67" y="243.36666" x="179.23331" fill="#fff"/>
+  <rect stroke="#000" id="B203" height="50" width="86.00001" y="243.36666" x="266.23331" fill="#fff"/>
+  <rect stroke="#000" id="B201" height="50" width="55" y="243.36666" x="352.23329" fill="#fff"/>
+  <rect stroke="#000" id="B204" height="57" width="86.00001" y="243.36666" x="481.23329" fill="#fff"/>
+  <rect stroke="#000" id="B205" height="50" width="55" y="243.36666" x="639.23326" fill="#fff"/>
+  <rect stroke="#000" id="B206" height="50" width="70" y="243.36666" x="693.23326" fill="#fff"/>
+  <rect stroke="#000" id="B207" height="50" width="70" y="243.36666" x="763.23325" fill="#fff"/>
+  <rect stroke="#000" id="B208" height="50" width="85" y="243.36666" x="833.23325" fill="#fff"/>
+  <rect stroke="#000" id="B209" height="50" width="95" y="243.36666" x="972.23324" fill="#fff"/>
+  <rect stroke="#000" id="B214" height="52" width="85" y="115.36667" x="645.23327" fill="#fff"/>
+  <rect stroke="#000" id="B213" height="64" width="94" y="103.36666" x="750.23327" fill="#fff"/>
+  <rect stroke="#000" id="B212" height="64" width="94" y="103.36666" x="844.23326" fill="#fff"/>
+  <rect stroke="#000" id="B211" height="49" width="94" y="118.36666" x="988.23326" fill="#fff"/>
+  <rect stroke="#000" id="B210" height="49" width="94" y="118.36666" x="1082.23325" fill="#fff"/>
+  <text data-generated-label="1" data-room-id="B219" x="145.23332" y="142.36666" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">B219</text>
+  <text data-generated-label="1" data-room-id="B218" x="249.73331" y="137.36666" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">B218</text>
+  <text data-generated-label="1" data-room-id="B217" x="356.7333" y="141.36667" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">B217</text>
+  <text data-generated-label="1" data-room-id="B202" x="212.73331" y="268.36666" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">B202</text>
+  <text data-generated-label="1" data-room-id="B203" x="309.233315" y="268.36666" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">B203</text>
+  <text data-generated-label="1" data-room-id="B201" x="379.73329" y="268.36666" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">B201</text>
+  <text data-generated-label="1" data-room-id="B204" x="524.233295" y="271.86666" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">B204</text>
+  <text data-generated-label="1" data-room-id="B205" x="666.73326" y="268.36666" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">B205</text>
+  <text data-generated-label="1" data-room-id="B206" x="728.23326" y="268.36666" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">B206</text>
+  <text data-generated-label="1" data-room-id="B207" x="798.23325" y="268.36666" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">B207</text>
+  <text data-generated-label="1" data-room-id="B208" x="875.73325" y="268.36666" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">B208</text>
+  <text data-generated-label="1" data-room-id="B209" x="1019.73324" y="268.36666" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">B209</text>
+  <text data-generated-label="1" data-room-id="B214" x="687.73327" y="141.36667" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">B214</text>
+  <text data-generated-label="1" data-room-id="B213" x="797.23327" y="135.36666" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">B213</text>
+  <text data-generated-label="1" data-room-id="B212" x="891.23326" y="135.36666" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">B212</text>
+  <text data-generated-label="1" data-room-id="B211" x="1035.23326" y="142.86666" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">B211</text>
+  <text data-generated-label="1" data-room-id="B210" x="1129.23325" y="142.86666" text-anchor="middle" dominant-baseline="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="20" fill="#111111" pointer-events="none">B210</text>
+ </g>
+</svg>
